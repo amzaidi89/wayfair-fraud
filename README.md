@@ -1,2 +1,1 @@
-# MgSi-Project
 # wayfair-fraud
